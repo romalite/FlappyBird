@@ -1,0 +1,18 @@
+body{
+	background: linear-gradient(223deg, #ca9b94, #0715ae);
+	height: 890px;
+}
+.canvas{
+	display: flex;
+	justify-content: center;
+
+}
+
+.wrapper{
+	width: 600px;
+	display: flex;
+	justify-content: space-around;
+	color: white;
+	font-size: 30px;
+	font-weight: 700;
+}
